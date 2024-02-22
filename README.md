@@ -1,4 +1,11 @@
-# Soptics
+
+# 📊 Soptics - Your Decentralized Analytics Solution
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Soptics/Soptics.svg)](https://github.com/Soptics/Soptics/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Soptics/Soptics.svg)](https://github.com/Soptics/Soptics/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Soptics/Soptics.svg)](https://github.com/Soptics/Soptics/network)
+[![CDN](https://img.shields.io/badge/CDN-Soptics-green.svg)](https://soptics.github.io/analytics.js)
 
 ## Overview
 
@@ -21,6 +28,16 @@ Follow these steps to get started with Soptics:
 
 3. **Usage:** Explore the features and functionalities through the intuitive interface.
 
+## Quick Integration
+
+Add Soptics analytics to your website effortlessly:
+
+```html
+<script async src="https://soptics.github.io/analytics.js"></script>
+```
+
+Get your website analytics on [Soptics Analytics Dashboard](https://soptics.github.io/) by simply entering your website URL.
+
 ## Documentation
 
 For detailed instructions on installation, configuration, and usage, please refer to our [documentation](link_to_docs).
@@ -41,4 +58,4 @@ This project is licensed under the [MIT License](link_to_license) - see the [LIC
 
 We would like to express our gratitude to the open-source community and everyone who has contributed to making Soptics better.
 
-Happy Analyzing!
+Happy Analyzing! 🚀
