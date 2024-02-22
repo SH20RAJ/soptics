@@ -2,9 +2,9 @@
 # 📊 Soptics - Your Decentralized Analytics Solution
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Soptics/Soptics.svg)](https://github.com/soptics/soptics.github.io/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Soptics/Soptics.svg)](https://github.com/soptics/soptics.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Soptics/Soptics.svg)](https://github.com/soptics/soptics.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/Soptics/soptics.github.io.svg)](https://github.com/soptics/soptics.github.io/issues)
+[![GitHub stars](https://img.shields.io/github/stars/soptics/soptics.github.io.svg)](https://github.com/soptics/soptics.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Soptics/soptics.github.io.svg)](https://github.com/soptics/soptics.github.io/network)
 [![CDN](https://img.shields.io/badge/CDN-Soptics-green.svg)](https://soptics.github.io/analytics.js)
 
 ## Overview
